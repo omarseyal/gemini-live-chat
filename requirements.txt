@@ -1,0 +1,6 @@
+reachy-mini>=1.2.0
+google-genai>=1.0.0
+python-dotenv>=1.0.0
+numpy>=2.0.0
+scipy>=1.10.0
+opencv-python>=4.8.0
